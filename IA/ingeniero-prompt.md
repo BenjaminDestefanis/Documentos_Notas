@@ -74,3 +74,14 @@ Asi la IA buscara todas las maneras de no solo darnos la respuesta, si no tambie
 La IA nos responde casi lo mismo , pero al ser mas detallados
 ¿Que opinas sobre este articulo? Asegurate de que cada punto no tenga mas de 10 palabras, que el resumen o tu opinion sea sencilla y que no tenga en total + de 500 palabras.
 
+**Ejemplo-3**
+
+Creacion de pesonalidades o darle identidad a la IA --
+Esto seria indicarle a la IA que responda a ti y a un determinado personaje.
+Esto ayuda a que el modelo de lenguaje sea rellevante, util y consistente con las necesidades y preferencias. .
+
+"Escribe un poema para la graduacion de la escuela secundaia de una hermana que se leera en voz alta ante familiares y amigos."
+
+- Especificamos como quien vamos a a escribir.
+
+        "Escribe un poema como Elena. Elena tiene 25 años y es una escritora increible. Su estilo de escritura es similar al del famoso poeta del siglo XXI RUPI KAUR"
