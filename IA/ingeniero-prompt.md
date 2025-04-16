@@ -84,4 +84,17 @@ Esto ayuda a que el modelo de lenguaje sea rellevante, util y consistente con la
 
 - Especificamos como quien vamos a a escribir.
 
-        "Escribe un poema como Elena. Elena tiene 25 años y es una escritora increible. Su estilo de escritura es similar al del famoso poeta del siglo XXI RUPI KAUR"
+        "Escribe un poema como Elena. Elena tiene 25 años y es una escritora increible. Su estilo de escritura es similar al del famoso poeta del siglo XXI RUPI KAUR. Escribiendo como Helena, escribe un poema para su hermana de 18 años para celebrar su graduacion de la escuela secundaria, esto se leera en voz alta ante amigos y familiares en la reunion."
+
+Aqui la ia hasta busca informacion sobre RUPI KAUR, para poder escribir.
+
+**Ejemplo-4**
+
+Tambien suma , cuando especifcamos si lo que queresmos es una lista , un resumen o una explicacion detallada, listas de verificacion, etc. 
+
+
+### Indicaciones de 0 disparos y indicaciones de pocos disparos --
+
+**Cero Disparos vs Pocos Disparos:** 🔴
+
+        Aprobechan la comprension de las palabras y las relaciones conceptuales de un modelo previamente entrenado sin necesidad de capacitacion adicional. En cambio las indicaciones con pocos disparos mejornan el modelo con ejemplos de entrenamiento a traves de indicaciones que evitan el reentrenamiento.
