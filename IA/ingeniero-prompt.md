@@ -1,4 +1,7 @@
-# INGENIERO PROMPT - Para inteligencias artificiales
+# INGENIERO PROMPT - Para inteligencias artificiales 
+
+## Resumen: Mejorar habilidades para pa laconsulta y la comuicacion con IA
+-- freeCodeCamp - AniaKubow
 
 ### Ques es la Ingenieria rapida ?
 
@@ -98,3 +101,11 @@ Tambien suma , cuando especifcamos si lo que queresmos es una lista , un resumen
 **Cero Disparos vs Pocos Disparos:** 🔴
 
         Aprobechan la comprension de las palabras y las relaciones conceptuales de un modelo previamente entrenado sin necesidad de capacitacion adicional. En cambio las indicaciones con pocos disparos mejornan el modelo con ejemplos de entrenamiento a traves de indicaciones que evitan el reentrenamiento.
+
+### Alucinaciones de la IA
+
+Resultado inusuales de parte de la IA. Muestran como los modelos interpretan los datos.
+
+### Vectores e Instrucciones
+
+Tener en cuenta que la IA analiza los terminos lexicograficamente , y asi tambien los asocias, cosa muy diferente de como lo hacemos nosostros. Como cuando buscamos en un diccionario, debemos encontrar el significado semantico de la palabra para poder 
