@@ -28,3 +28,18 @@ ATENCION MEDICA - FINANZAS - TEGNOLOGIA - DEFENSA - O HASTA INDUSTRIAS CREATIVAS
 
 
 
+### Temas fundamentales para ser Ingeniero en IA
+
+**Matematicas**
+Fundamentos y temas como 
+Matematicas de escuela (Ecuaciones - calculo - geometria , pitagoras , temas de scundatioa)
+ALGEBRA LINEAL -- Muy importante ! mas para el deep learning  especial para redes neuronales
+(Vectores Matrices Sistemas de cooredenadasortogonalidad, vectores especiales, producto escalar, escuaciones en C, sistemas lineales , calculos con vectores. Determinantes, Proyecciones de vectores, factorizaciones de metrix, composicion QR).
+CALCULO -- Igual de importante como Algebra (Integrales - derivadas - se tiliza en aprendiza automatico)
+GAME THEORY -- comprender a trabes de las estrategias en juegos.
+FUNDAMENTOS DE GEOMETRIA.
+
+ESTADISTICA (IMportantisimo, para predecir a traves del analisis de informacion) la media, la viarianza, la desviacion estandar, la moda , etc
+
+-- Minuto 17:39 
+
